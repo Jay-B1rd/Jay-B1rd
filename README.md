@@ -1,6 +1,5 @@
-Ayo, I'm Jay :) 
-He/Him
-Still learning to code and in high school, plan on becoming a physics professor!
+Ayo, I'm Jay, He/Him :) <br>
+Still learning to code and in high school, plan on becoming a physics professor! <br>
 Made this to make funky stuff with friends and not much else!
 
 <!---
